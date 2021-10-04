@@ -1,2 +1,2 @@
 # theme-clock
-A simple clock designed by HTML and CSS and Javascript for the clock's functionality
+A simple clock designed by HTML and CSS for the structure of the site. While Javascript is used for the clock's functionality.
